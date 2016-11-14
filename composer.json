@@ -1,19 +1,19 @@
 {
-    "name": "johnitvn/yii2-ajaxcrud",
+    "name": "15518182929/yii2-ajaxcrud",
     "description": "Gii CRUD template for Single Page Ajax Administration for yii2",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","ajax","crud","gii","template","database"],
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "John Martin",
-            "email": "john.itvn@gmail.com",
-            "homepage": "https://github.com/johnitvn?tab=repositories"
+            "name": "lidong",
+            "email": "15518182929@163.com",
+            "homepage": ""
         }
     ],
     "support": {
-        "issues": "https://github.com/johnitvn/yii2-ajaxcrud/issues?state=open",
-        "source": "https://github.com/johnitvn/yii2-ajaxcrud"
+        "issues": "https://github.com/15518182929/yii2-ajaxcrud/issues?state=open",
+        "source": "https://github.com/15518182929/yii2-ajaxcrud"
     },
     "require": {
         "yiisoft/yii2": "*",
@@ -25,10 +25,10 @@
     },
     "autoload": {
         "psr-4": {
-            "johnitvn\\ajaxcrud\\": "src/"
+            "15518182929\\ajaxcrud\\": "src/"
         }
     },
     "extra": {
-        "bootstrap": "johnitvn\\ajaxcrud\\Bootstrap"
+        "bootstrap": "15518182929\\ajaxcrud\\Bootstrap"
     }
 }
