@@ -1,5 +1,5 @@
 {
-    "name": "15518182929/yii2-ajaxcrud",
+    "name": "lidong/yii2-ajaxcrud",
     "description": "Gii CRUD template for Single Page Ajax Administration for yii2",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","ajax","crud","gii","template","database"],
@@ -12,8 +12,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/15518182929/yii2-ajaxcrud/issues?state=open",
-        "source": "https://github.com/15518182929/yii2-ajaxcrud"
+        "issues": "https://github.com/lidong/yii2-ajaxcrud/issues?state=open",
+        "source": "https://github.com/lidong/yii2-ajaxcrud"
     },
     "require": {
         "yiisoft/yii2": "*",
@@ -25,10 +25,10 @@
     },
     "autoload": {
         "psr-4": {
-            "15518182929\\ajaxcrud\\": "src/"
+            "lidong\\ajaxcrud\\": "src/"
         }
     },
     "extra": {
-        "bootstrap": "15518182929\\ajaxcrud\\Bootstrap"
+        "bootstrap": "lidong\\ajaxcrud\\Bootstrap"
     }
 }
